@@ -15,8 +15,5 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" tvg-name="Bălți TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="Moldova",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaRTR" tvg-name="Planeta RTR" group-title="Russia",Planeta RTR
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=sbYerpL60lCQX4XZUcEsDg&e=1768335563
-
 #EXTINF:-1 tvg-id="JurnalTV" tvg-name="JurnalTV" group-title="Moldova",JurnalTV
-https://live3.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=6b42522e6821835df245f8b2e7f70127d2784e42
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=6b42522e6821835df245f8b2e7f70127d2784e42
